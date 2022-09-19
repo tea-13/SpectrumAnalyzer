@@ -10,11 +10,13 @@
 * [TODO](#chapter-4)
 
 <a id="chapter-1"/>
+
 ## Возможности проекта
 
 ### TODO
 
 <a id="chapter-2"/>
+
 ## Детали и ссылки на покупку
 
 + Arduino Nano [ссылка](https://clck.ru/324jT7)
@@ -35,7 +37,7 @@
 
 ## Схема подключения
 
-![scheme](schemes/scheme.png)
+![scheme](schemes/Scheme.png)
 
 | Arduino | MAX9814 |
 | ------- | ------- |
